@@ -1,4 +1,4 @@
- from extract.extract_resume_data import extract_resume
+from extract.extract_resume_data import extract_resume
 
 def transform_resume_data(resume_data):
     # Example transformation: converting responsibilities to bullet points
