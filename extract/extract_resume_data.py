@@ -42,13 +42,18 @@ resume_data = {
     ],
     'Education': [
         {
-            'Degree': "Master's Degree in Computer Science",
-            'University': "University of Central Missouri",
-            'Year': '2021-2022'
+            'Degree':"Master's Degree in Computer Science",
+            'University':"University of Central Missouri",
+            'Year':'2021-2022'
+        },
+        {
+            'Degree':"Bachelor's Degree in Computer Science",
+            'University': "JNTUH College of Engineering",
+            'Year':'20216-2020'
         }
     ],
     'Skills': [
-        'Hadoop, Spark, Kafka, Azure Data Factory, Power BI, Snowflake'
+        'AWS,Azure,Python,Scala,Java,Redshift,Hive,Jenkins,Docker,SQL Server,MongoDB,HBase,Hadoop, Spark, Kafka, Azure Data Factory, Power BI, Snowflake'
     ]
 }
 
