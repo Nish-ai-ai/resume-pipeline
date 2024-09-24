@@ -29,5 +29,7 @@ Seasoned Data Engineer with over 4 years of experience in designing and optimizi
 ## Education
 **Master's Degree in Computer Science** - University of Central Missouri (2021-2022)
 
+**Bachelor's Degree in Computer Science** - JNTUH College of Engineering (20216-2020)
+
 ## Skills
-Hadoop, Spark, Kafka, Azure Data Factory, Power BI, Snowflake
+AWS,Azure,Python,Scala,Java,Redshift,Hive,Jenkins,Docker,SQL Server,MongoDB,HBase,Hadoop, Spark, Kafka, Azure Data Factory, Power BI, Snowflake
