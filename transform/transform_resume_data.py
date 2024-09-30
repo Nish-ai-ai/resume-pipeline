@@ -24,4 +24,3 @@ if __name__ == "__main__":
     resume_data = extract_resume()
     transformed_data = transform_resume_data(resume_data)
     print(transformed_data)
-
