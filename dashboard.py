@@ -4,8 +4,8 @@ import matplotlib.pyplot as plt
 
 # Sample skills data
 skills_data = {
-    "Skill": ["Hadoop", "Spark", "Kafka", "Azure Data Factory", "Power BI", "Snowflake"],
-    "Proficiency": [4, 4, 3, 4, 5, 3]  # Proficiency scale 1-5
+    "Skill": ["Hadoop", "Spark", "Kafka", "Azure Data Factory", "Power BI", "Snowflake", "SQL", "AWS", "GCP", "MySql", "EC2", "Python", "ETL"],
+    "Proficiency": [4, 4, 3, 4, 5, 3,4,4,1,4,4,4,4]  # Proficiency scale 1-5
 }
 
 # Streamlit dashboard
