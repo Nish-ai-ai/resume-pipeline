@@ -15,7 +15,7 @@ st.title("Skills Proficiency Dashboard")
 st.header("Nishanth_Resume")
 
 # Load and display the education data from the .md file
-with open('C:/Users/Program/resume-pipeline/load/resume.md', 'r' ) as file:
+with open('resume-pipeline/load/resume.md', 'r' ) as file:
     education_markdown = file.read()
 
 # Display the markdown content
